@@ -1,0 +1,25 @@
+.jumbotron {
+    height: 400px;
+    background-image:url("banner.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+    text-align: center;
+     }
+    
+     .card{
+        border: none;
+        align-content: center;
+        text-align: center;
+        
+    }
+
+ .card-deck{
+    margin-top: 50px;
+}
+
+.card-group{
+    margin-top: 50px;
+}
